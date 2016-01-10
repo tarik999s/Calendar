@@ -1,0 +1,4 @@
+phone.jpg Phone
+flag.jpg Spain flag
+great.jpg Castle
+simple.gif Simple
